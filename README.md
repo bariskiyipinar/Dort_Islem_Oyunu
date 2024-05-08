@@ -1,2 +1,2 @@
-# Dort_-slem_Oyunu
+# Dort_Islem_Oyunu
 Dört İşlem Oyunu
